@@ -15,7 +15,7 @@ This project builds and evaluates two image classification models to distinguish
 │   └── test/
 │       ├── car/
 │       └── not_car/
-├── Assignment1.py                # Full training, evaluation, and visualization script
+├── Assignment1.ipynb             # Full training, evaluation, and visualization script
 ├── requirements.txt              # List of required Python packages
 └── README.md                     # Project documentation
 ```
@@ -51,7 +51,7 @@ This project builds and evaluates two image classification models to distinguish
    ```
 3. Run the main script:
    ```bash
-   python final_car_classifier.py
+   python Assignment1.ipynb
    ```
 4. Launch TensorBoard (optional):
    ```bash
