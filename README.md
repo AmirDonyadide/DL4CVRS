@@ -15,7 +15,7 @@ This project builds and evaluates two image classification models to distinguish
 │   └── test/
 │       ├── car/
 │       └── not_car/
-├── final_car_classifier.py       # Full training, evaluation, and visualization script
+├── Assignment1.py                # Full training, evaluation, and visualization script
 ├── requirements.txt              # List of required Python packages
 └── README.md                     # Project documentation
 ```
@@ -75,6 +75,6 @@ This project builds and evaluates two image classification models to distinguish
 
 ## 👨‍💻 Author
 
-Developed with ❤️ using PyTorch. Suitable for coursework or deep learning practice.
-
-Feel free to fork, modify, and contribute!
+Group 5
+Course Deep Learning for Computer Vision and Remote Sensing
+KIT
